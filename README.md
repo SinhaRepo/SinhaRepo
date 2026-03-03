@@ -1,134 +1,221 @@
-<!-- ===== TOP WAVE BANNER ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:4c1d95,100:7c3aed&height=220&section=header&text=Ansh%20Sinha&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Python%20%26%20Java%20Craftsman&descAlignY=58&descSize=20&descColor=c4b5fd"/>
+<!-- TOP WAVE BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,40:4c1d95,100:7c3aed&amp;height=200&amp;section=header&amp;text=Ansh%20Sinha&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Backend%20Developer%20%7C%20Python%20%26%20Java&amp;descAlignY=57&amp;descSize=19&amp;descColor=c4b5fd"/>
 
-<div align="center">
+<!-- BADGES ROW -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SinhaRepo&amp;style=for-the-badge&amp;color=7c3aed&amp;label=PROFILE+VISITORS" alt="visitors"/>
+  <a href="https://linkedin.com/in/sinhaansh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="linkedin"/></a>
+  <a href="https://anshsinha.dev"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&amp;logo=firefox&amp;logoColor=white" alt="portfolio"/></a>
+  <a href="mailto:anshsinha.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="email"/></a>
+</p>
 
-![Visitors](https://komarev.com/ghpvc/?username=SinhaRepo&style=for-the-badge&color=7c3aed&label=PROFILE+VISITORS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sinhaansh)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=firefox&logoColor=white)](https://anshsinha.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshsinha.dev@gmail.com)
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=22&amp;duration=3000&amp;pause=800&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=680&amp;lines=Backend+Developer+%7C+Python+%26+Java;Distributed+Systems+%26+API+Craftsman;BE+Computer+Engineering+%40+GEC+Dahod;Building+Nexus+%7C+AI+Voice+Assistant;Clean+architecture+or+nothing+at+all" alt="Typing SVG"/>
+</p>
 
-</div>
+<!-- CURRENTLY BUILDING — pulsing status badge -->
+<p align="center">
+  <a href="https://github.com/SinhaRepo/nexus-ai-assistant">
+    <img src="https://img.shields.io/badge/%E2%96%B8%20CURRENTLY%20BUILDING-Nexus%20AI%20Assistant%20%7C%20Distributed%20Voice%20AI%20on%20Raspberry%20Pi-7c3aed?style=for-the-badge&amp;logo=raspberry-pi&amp;logoColor=white&amp;labelColor=4c1d95" alt="Currently Building"/>
+  </a>
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00e676?style=for-the-badge&amp;labelColor=0d1117" alt="Active"/>
+</p>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+I'm+Ansh+Sinha!;Backend+Developer+%7C+Python+%26+Java;Building+scalable+APIs+%F0%9F%9A%80;Clean+code+is+my+love+language+%E2%9D%A4%EF%B8%8F;Turning+caffeine+into+backends+%E2%98%95;The+backend+is+where+the+magic+hides+%F0%9F%AA%84" alt="Typing SVG"/>
-</div>
+---
 
-<br/>
+<!-- ABOUT ME + PIXEL ART GIF -->
+<img align="right" alt="Pixel Art Coder" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-<img align="right" alt="Lofi Coding" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+### ◆ About Me
 
-### 🧑‍💻 &nbsp;About Me
 ```yaml
-name     : "Ansh Sinha"
-role     : "Backend Developer"
-stack    : ["Python", "Java"]
-portfolio: "anshsinha.dev"
-fuel     : "Caffeine -> APIs"
-mode     : "Night owl who ships after midnight"
-motto    : "I don't write bugs, I create undocumented features"
-obsessed : "Clean architecture & fast systems"
+name      : "Ansh Sinha"
+role      : "Backend Developer"
+education : "BE Computer Engineering @ GEC Dahod"
+cgpa      : "8.00 / 10.00"
+stack     : ["Python", "Java", "Flask", "Spring Boot", "Django"]
+databases : ["PostgreSQL", "MongoDB"]
+infra     : ["Docker", "AWS"]
+building  : "Nexus — Distributed AI Voice Assistant"
+fuel      : "Caffeine -> Clean APIs"
+mode      : "Night owl. Ships after midnight."
+motto     : "I don't write bugs. Undocumented features."
 ```
 
-- 🔭 Currently building **robust, scalable backend systems**
-- 🌱 Always exploring **distributed systems & design patterns**
-- 💬 Ask me about **APIs, system design, or Python/Java**
-- ⚡ Fun fact: **The best code is the code you never had to write**
+▸ Building distributed systems, REST APIs and scalable backends  
+▸ CS core — DSA, OS, DBMS, Networks, Software Engineering  
+▸ Google-certified in GenAI, LLMs and Responsible AI  
+▸ Ask me anything about Python, Java, Flask or system design  
 
 <br clear="right"/>
 
+<!-- EDUCATION — compact table -->
+### ◆ Education
+
+| Degree | Institution | Score | Year |
+|--------|-------------|:-----:|:----:|
+| BE — Computer Engineering | Govt. Engineering College, Dahod | 8.00 CGPA | 2023 – 2026 |
+| Diploma — Electrical Engineering | Dr. S &amp; S Ghandhy College of Engg. | 8.59 CGPA | 2020 – 2023 |
+| 10th Standard | Siddhakutir English Medium School, Surat | 94.06 % | 2018 – 2020 |
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br/>
 
-<div align="center">
+---
 
-### 🛠️ &nbsp;Tech Stack & Tools
+<!-- TECH STACK -->
+### ◆ Tech Stack & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,flask,spring,django,postgres,mongodb,docker,aws,git,linux,vscode&amp;theme=dark&amp;perline=6" alt="Tech Stack"/>
+</p>
 
-</div>
+<!-- SKILL PROGRESS BARS -->
+### ◆ Proficiency
 
-<br/>
+<p align="center">
+  <img src="https://progress-bar.dev/90/?title=Python%20%20%20%20%20%20%20%20%20&amp;width=320&amp;color=7c3aed" alt="Python"/>
+  <img src="https://progress-bar.dev/75/?title=Java%20%20%20%20%20%20%20%20%20%20%20&amp;width=320&amp;color=7c3aed" alt="Java"/>
+</p>
+<p align="center">
+  <img src="https://progress-bar.dev/80/?title=Flask%20%20%20%20%20%20%20%20%20%20&amp;width=320&amp;color=6d28d9" alt="Flask"/>
+  <img src="https://progress-bar.dev/60/?title=Spring%20Boot%20%20%20%20&amp;width=320&amp;color=6d28d9" alt="Spring Boot"/>
+</p>
+<p align="center">
+  <img src="https://progress-bar.dev/65/?title=PostgreSQL%20%20%20%20&amp;width=320&amp;color=5b21b6" alt="PostgreSQL"/>
+  <img src="https://progress-bar.dev/60/?title=MongoDB%20%20%20%20%20%20%20&amp;width=320&amp;color=5b21b6" alt="MongoDB"/>
+</p>
+<p align="center">
+  <img src="https://progress-bar.dev/55/?title=Docker%20%20%20%20%20%20%20%20&amp;width=320&amp;color=4c1d95" alt="Docker"/>
+  <img src="https://progress-bar.dev/45/?title=AWS%20%20%20%20%20%20%20%20%20%20%20&amp;width=320&amp;color=4c1d95" alt="AWS"/>
+</p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br/>
 
-<div align="center">
+---
 
-### 📊 &nbsp;GitHub Stats
+<!-- GITHUB STATS -->
+### ◆ GitHub Stats
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SinhaRepo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&border_radius=10"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SinhaRepo&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=c4b5fd&border_radius=10"/>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SinhaRepo&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;icon_color=7c3aed&amp;text_color=c4b5fd&amp;border_radius=10" alt="GitHub Stats"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SinhaRepo&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;ring=7c3aed&amp;fire=a78bfa&amp;currStreakLabel=c4b5fd&amp;border_radius=10" alt="GitHub Streak"/>
+</p>
 
-<br/>
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinhaRepo&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;text_color=c4b5fd&amp;border_radius=10" alt="Top Languages"/>
+  <img width="56%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SinhaRepo&amp;theme=tokyonight&amp;utcOffset=5.5" alt="Productive Time"/>
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinhaRepo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c4b5fd&border_radius=10"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=SinhaRepo&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&hide_border=true"/>
+<p align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SinhaRepo&amp;theme=tokyonight" alt="Repos Per Language"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SinhaRepo&amp;theme=tokyonight" alt="Most Commit Language"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SinhaRepo&amp;theme=tokyonight" alt="Stats"/>
+</p>
 
-</div>
+<p align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SinhaRepo&amp;theme=tokyonight" alt="Profile Details"/>
+</p>
 
-<br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br/>
 
-<div align="center">
+---
 
-### ⏱️ &nbsp;Weekly Coding Activity (WakaTime)
+<!-- WAKATIME -->
+### ◆ Weekly Coding Activity
 
-<img width="65%" src="https://github-readme-stats.vercel.app/api/wakatime?username=SinhaRepo&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c4b5fd&border_radius=10&layout=compact"/>
+<p align="center">
+  <img width="68%" src="https://github-readme-stats.vercel.app/api/wakatime?username=SinhaRepo&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;text_color=c4b5fd&amp;border_radius=10&amp;layout=compact" alt="WakaTime Stats"/>
+</p>
 
-</div>
-
-<br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br/>
 
-<div align="center">
+---
 
-### 🏆 &nbsp;GitHub Trophies
+<!-- FEATURED PROJECTS -->
+### ◆ Featured Projects
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=SinhaRepo&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"/>
+<p align="center">
+  <a href="https://github.com/SinhaRepo/nexus-ai-assistant">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SinhaRepo&amp;repo=nexus-ai-assistant&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;text_color=c4b5fd&amp;icon_color=7c3aed&amp;border_radius=10" alt="Nexus AI Assistant"/>
+  </a>
+  <a href="https://github.com/SinhaRepo/shopper-ecommerce">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SinhaRepo&amp;repo=shopper-ecommerce&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;text_color=c4b5fd&amp;icon_color=7c3aed&amp;border_radius=10" alt="Shopper E-Commerce"/>
+  </a>
+</p>
 
-</div>
-
-<br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br/>
 
-<div align="center">
+---
 
-### 🎵 &nbsp;Vibing To Right Now
+<!-- CERTIFICATIONS -->
+### ◆ Certifications
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d1117&bar_color=7c3aed&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&redirect=true)
+<p align="center">
+  <img src="https://img.shields.io/badge/Udemy-100%20Days%20of%20Code%20Python-3776AB?style=for-the-badge&amp;logo=udemy&amp;logoColor=white" alt="udemy python"/>
+  <img src="https://img.shields.io/badge/HackerRank-Python%20Basic-00EA64?style=for-the-badge&amp;logo=hackerrank&amp;logoColor=black" alt="hr python"/>
+  <img src="https://img.shields.io/badge/HackerRank-Java%20Basic-00EA64?style=for-the-badge&amp;logo=hackerrank&amp;logoColor=black" alt="hr java"/>
+  <img src="https://img.shields.io/badge/HackerRank-Software%20Eng%20Intern-00EA64?style=for-the-badge&amp;logo=hackerrank&amp;logoColor=black" alt="hr sei"/>
+  <img src="https://img.shields.io/badge/Google-Intro%20to%20GenAI-4285F4?style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="google genai"/>
+  <img src="https://img.shields.io/badge/Google-Large%20Language%20Models-4285F4?style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="google llm"/>
+  <img src="https://img.shields.io/badge/Google-Responsible%20AI-4285F4?style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="google rai"/>
+  <img src="https://img.shields.io/badge/Google-CI%2FCD%20Pipelines-4285F4?style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="google cicd"/>
+  <img src="https://img.shields.io/badge/Google-GenAIus%20Chatbots-4285F4?style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="google chatbots"/>
+</p>
 
-</div>
-
-<br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br/>
 
-<div align="center">
+---
 
-### 🐍 &nbsp;Watch the Snake Eat My Contributions!
+<!-- TROPHIES -->
+### ◆ GitHub Trophies
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SinhaRepo/SinhaRepo/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SinhaRepo/SinhaRepo/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/SinhaRepo/SinhaRepo/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
+<p align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=SinhaRepo&amp;theme=discord&amp;no-frame=true&amp;no-bg=true&amp;column=7&amp;margin-w=8" alt="GitHub Trophies"/>
+</p>
 
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br/>
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,60:4c1d95,100:0d1117&height=140&section=footer&animation=fadeIn"/>
+<!-- DEV QUOTE -->
+### ◆ Dev Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" alt="Dev Quote"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+<!-- SPOTIFY -->
+### ◆ Vibing To Right Now
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&amp;redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&amp;cover_image=true&amp;theme=natemoo-re&amp;show_offline=true&amp;background_color=0d1117&amp;bar_color=7c3aed&amp;bar_color_cover=true" alt="Spotify Now Playing"/>
+  </a>
+</p>
+
+<!-- Setup: https://spotify-github-profile.kittinanx.com — sign in and replace YOUR_SPOTIFY_USER_ID -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+<!-- SNAKE — needs GitHub Action (snake.yml) to generate the SVG first -->
+### ◆ Snake Eating My Contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SinhaRepo/SinhaRepo/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SinhaRepo/SinhaRepo/output/github-contribution-grid-snake.svg"/>
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/SinhaRepo/SinhaRepo/output/github-contribution-grid-snake-dark.svg"/>
+  </picture>
+</p>
+
+<!-- BOTTOM WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7c3aed,60:4c1d95,100:0d1117&amp;height=130&amp;section=footer&amp;animation=fadeIn"/>
