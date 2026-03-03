@@ -1,7 +1,6 @@
-<!-- TOP WAVE BANNER — desc has no & to avoid SVG XML parse error -->
+<!-- TOP WAVE BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,40:4c1d95,100:7c3aed&amp;height=200&amp;section=header&amp;text=Ansh%20Sinha&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Backend%20Developer%20%7C%20Python%20%2B%20Java&amp;descAlignY=57&amp;descSize=19&amp;descColor=c4b5fd"/>
 
-<!-- BADGES ROW -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SinhaRepo&amp;style=for-the-badge&amp;color=7c3aed&amp;label=PROFILE+VISITORS" alt="visitors"/>
   <a href="https://linkedin.com/in/sinhaansh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="linkedin"/></a>
@@ -9,12 +8,10 @@
   <a href="mailto:anshsinha.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="email"/></a>
 </p>
 
-<!-- TYPING ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=22&amp;duration=3000&amp;pause=800&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=680&amp;lines=Backend+Developer+%7C+Python+%2B+Java;Distributed+Systems+%26+API+Craftsman;BE+Computer+Engineering+%40+GEC+Dahod;Building+Nexus+%7C+AI+Voice+Assistant;Clean+architecture+or+nothing+at+all" alt="Typing SVG"/>
 </p>
 
-<!-- CURRENTLY BUILDING -->
 <p align="center">
   <a href="https://github.com/SinhaRepo/nexus-ai-assistant">
     <img src="https://img.shields.io/badge/%E2%96%B8%20CURRENTLY%20BUILDING-Nexus%20AI%20Assistant%20%7C%20Distributed%20Voice%20AI%20on%20Raspberry%20Pi-7c3aed?style=for-the-badge&amp;logo=raspberry-pi&amp;logoColor=white&amp;labelColor=4c1d95" alt="Currently Building"/>
@@ -26,11 +23,9 @@
 
 ---
 
-<!-- ABOUT ME + PIXEL ART GIF -->
 <img align="right" alt="Pixel Art Coder" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ### ◆ About Me
-
 ```yaml
 name      : "Ansh Sinha"
 role      : "Backend Developer"
@@ -52,7 +47,6 @@ motto     : "I don't write bugs. Undocumented features."
 
 <br clear="right"/>
 
-<!-- EDUCATION -->
 ### ◆ Education
 
 | Degree | Institution | Score | Year |
@@ -65,16 +59,13 @@ motto     : "I don't write bugs. Undocumented features."
 
 ---
 
-<!-- TECH STACK -->
 ### ◆ Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,flask,spring,django,postgres,mongodb,docker,aws,git,linux,vscode&amp;theme=dark&amp;perline=6" alt="Tech Stack"/>
 </p>
 
-<!-- SKILL PROGRESS BARS — Unicode blocks, no external service, always renders -->
 ### ◆ Proficiency
-
 ```
 Python       ████████████████████████░░  90%
 Java         ██████████████████████░░░░  75%
@@ -90,16 +81,15 @@ AWS          ████████████░░░░░░░░░░�
 
 ---
 
-<!-- GITHUB STATS — using demolab streak (stable) + alternative stats instance -->
 ### ◆ GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SinhaRepo&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;icon_color=7c3aed&amp;text_color=c4b5fd&amp;border_radius=10&amp;cache_seconds=1800" alt="GitHub Stats"/>
+  <img width="48%" src="https://github-readme-stats-sinharepo.vercel.app/api?username=SinhaRepo&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;icon_color=7c3aed&amp;text_color=c4b5fd&amp;border_radius=10" alt="GitHub Stats"/>
   <img width="48%" src="https://streak-stats.demolab.com/?user=SinhaRepo&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;ring=7c3aed&amp;fire=a78bfa&amp;currStreakLabel=c4b5fd&amp;border_radius=10" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinhaRepo&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;text_color=c4b5fd&amp;border_radius=10&amp;cache_seconds=1800" alt="Top Languages"/>
+  <img width="40%" src="https://github-readme-stats-sinharepo.vercel.app/api/top-langs/?username=SinhaRepo&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;text_color=c4b5fd&amp;border_radius=10" alt="Top Languages"/>
   <img width="56%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SinhaRepo&amp;theme=tokyonight&amp;utcOffset=5.5" alt="Productive Time"/>
 </p>
 
@@ -117,26 +107,24 @@ AWS          ████████████░░░░░░░░░░�
 
 ---
 
-<!-- WAKATIME -->
 ### ◆ Weekly Coding Activity
 
 <p align="center">
-  <img width="68%" src="https://github-readme-stats.vercel.app/api/wakatime?username=SinhaRepo&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;text_color=c4b5fd&amp;border_radius=10&amp;layout=compact&amp;cache_seconds=1800" alt="WakaTime Stats"/>
+  <img width="68%" src="https://github-readme-stats-sinharepo.vercel.app/api/wakatime?username=SinhaRepo&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;text_color=c4b5fd&amp;border_radius=10&amp;layout=compact" alt="WakaTime Stats"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
-<!-- FEATURED PROJECTS -->
 ### ◆ Featured Projects
 
 <p align="center">
   <a href="https://github.com/SinhaRepo/nexus-ai-assistant">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SinhaRepo&amp;repo=nexus-ai-assistant&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;text_color=c4b5fd&amp;icon_color=7c3aed&amp;border_radius=10" alt="Nexus AI Assistant"/>
+    <img width="48%" src="https://github-readme-stats-sinharepo.vercel.app/api/pin/?username=SinhaRepo&amp;repo=nexus-ai-assistant&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;text_color=c4b5fd&amp;icon_color=7c3aed&amp;border_radius=10" alt="Nexus AI Assistant"/>
   </a>
   <a href="https://github.com/SinhaRepo/shopper-ecommerce">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SinhaRepo&amp;repo=shopper-ecommerce&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;text_color=c4b5fd&amp;icon_color=7c3aed&amp;border_radius=10" alt="Shopper E-Commerce"/>
+    <img width="48%" src="https://github-readme-stats-sinharepo.vercel.app/api/pin/?username=SinhaRepo&amp;repo=shopper-ecommerce&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;text_color=c4b5fd&amp;icon_color=7c3aed&amp;border_radius=10" alt="Shopper E-Commerce"/>
   </a>
 </p>
 
@@ -144,7 +132,6 @@ AWS          ████████████░░░░░░░░░░�
 
 ---
 
-<!-- CERTIFICATIONS -->
 ### ◆ Certifications
 
 <p align="center">
@@ -163,7 +150,6 @@ AWS          ████████████░░░░░░░░░░�
 
 ---
 
-<!-- TROPHIES — using ryo-ma's stable instance -->
 ### ◆ GitHub Trophies
 
 <p align="center">
@@ -174,7 +160,6 @@ AWS          ████████████░░░░░░░░░░�
 
 ---
 
-<!-- DEV QUOTE -->
 ### ◆ Dev Quote of the Day
 
 <p align="center">
@@ -185,12 +170,11 @@ AWS          ████████████░░░░░░░░░░�
 
 ---
 
-<!-- SPOTIFY -->
 ### ◆ Vibing To Right Now
 
 <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31tef5ehviilu4hkpyjc5lo7bmsa&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)&amp;redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31tef5ehviilu4hkpyjc5lo7bmsa&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)&amp;cover_image=true&amp;theme=natemoo-re&amp;show_offline=true&amp;background_color=0d1117&amp;bar_color=7c3aed&amp;bar_color_cover=true" alt="Spotify Now Playing"/>
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31tef5ehviilu4hkpyjc5lo7bmsa&amp;redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31tef5ehviilu4hkpyjc5lo7bmsa&amp;cover_image=true&amp;theme=natemoo-re&amp;show_offline=true&amp;background_color=0d1117&amp;bar_color=7c3aed&amp;bar_color_cover=true" alt="Spotify Now Playing"/>
   </a>
 </p>
 
@@ -198,7 +182,6 @@ AWS          ████████████░░░░░░░░░░�
 
 ---
 
-<!-- SNAKE -->
 ### ◆ Snake Eating My Contributions
 
 <p align="center">
@@ -209,5 +192,4 @@ AWS          ████████████░░░░░░░░░░�
   </picture>
 </p>
 
-<!-- BOTTOM WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7c3aed,60:4c1d95,100:0d1117&amp;height=130&amp;section=footer&amp;animation=fadeIn"/>
