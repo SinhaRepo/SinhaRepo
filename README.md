@@ -21,11 +21,10 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
-
 <img align="right" alt="Pixel Art Coder" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ### ◆ About Me
+
 ```yaml
 name      : "Ansh Sinha"
 role      : "Backend Developer"
@@ -47,17 +46,7 @@ motto     : "I don't write bugs. Undocumented features."
 
 <br clear="right"/>
 
-### ◆ Education
-
-| Degree | Institution | Score | Year |
-|--------|-------------|:-----:|:----:|
-| BE — Computer Engineering | Govt. Engineering College, Dahod | 8.00 CGPA | 2023 – 2026 |
-| Diploma — Electrical Engineering | Dr. S &amp; S Ghandhy College of Engg. | 8.59 CGPA | 2020 – 2023 |
-| 10th Standard | Siddhakutir English Medium School, Surat | 94.06 % | 2018 – 2020 |
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
 
 ### ◆ Tech Stack & Tools
 
@@ -65,21 +54,17 @@ motto     : "I don't write bugs. Undocumented features."
   <img src="https://skillicons.dev/icons?i=python,java,flask,spring,django,postgres,mongodb,docker,aws,git,linux,vscode&amp;theme=dark&amp;perline=6" alt="Tech Stack"/>
 </p>
 
-### ◆ Proficiency
-```
-Python       ████████████████████████░░  90%
-Java         ██████████████████████░░░░  75%
-Flask        ████████████████████████░░  80%
-Spring Boot  ████████████████░░░░░░░░░░  60%
-PostgreSQL   ██████████████████░░░░░░░░  65%
-MongoDB      ████████████████░░░░░░░░░░  60%
-Docker       ██████████████░░░░░░░░░░░░  55%
-AWS          ████████████░░░░░░░░░░░░░░  45%
-```
+### ◆ Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white" alt="kubernetes"/>
+  <img src="https://img.shields.io/badge/System%20Design-7c3aed?style=for-the-badge&amp;logo=buffer&amp;logoColor=white" alt="system design"/>
+  <img src="https://img.shields.io/badge/DSA%20in%20Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="dsa java"/>
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&amp;logo=apachekafka&amp;logoColor=white" alt="kafka"/>
+  <img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="grpc"/>
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
 
 ### ◆ GitHub Stats
 
@@ -105,17 +90,12 @@ AWS          ████████████░░░░░░░░░░�
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+### ◆ Recent Activity
 
-### ◆ Weekly Coding Activity
-
-<p align="center">
-  <img width="68%" src="https://github-readme-stats-sinharepo.vercel.app/api/wakatime?username=SinhaRepo&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;text_color=c4b5fd&amp;border_radius=10&amp;layout=compact" alt="WakaTime Stats"/>
-</p>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
 
 ### ◆ Featured Projects
 
@@ -123,14 +103,27 @@ AWS          ████████████░░░░░░░░░░�
   <a href="https://github.com/SinhaRepo/nexus-ai-assistant">
     <img width="48%" src="https://github-readme-stats-sinharepo.vercel.app/api/pin/?username=SinhaRepo&amp;repo=nexus-ai-assistant&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;text_color=c4b5fd&amp;icon_color=7c3aed&amp;border_radius=10" alt="Nexus AI Assistant"/>
   </a>
-  <a href="https://github.com/SinhaRepo/shopper-ecommerce">
-    <img width="48%" src="https://github-readme-stats-sinharepo.vercel.app/api/pin/?username=SinhaRepo&amp;repo=shopper-ecommerce&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;text_color=c4b5fd&amp;icon_color=7c3aed&amp;border_radius=10" alt="Shopper E-Commerce"/>
+  <a href="https://github.com/SinhaRepo/Shoppers">
+    <img width="48%" src="https://github-readme-stats-sinharepo.vercel.app/api/pin/?username=SinhaRepo&amp;repo=Shoppers&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;text_color=c4b5fd&amp;icon_color=7c3aed&amp;border_radius=10" alt="Shoppers"/>
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <b>Nexus AI Assistant</b><br/>
+        <sub>Distributed voice AI on Raspberry Pi Zero W with Flask backend, custom wake-word detection, dual-LLM failover and hardware-level automation.</sub>
+      </td>
+      <td width="50%" align="center">
+        <b>Shoppers</b><br/>
+        <sub>Full-featured e-commerce web application with product listings, cart management, user authentication and order processing.</sub>
+      </td>
+    </tr>
+  </table>
+</p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### ◆ Certifications
 
@@ -148,18 +141,6 @@ AWS          ████████████░░░░░░░░░░�
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
-
-### ◆ GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy-two-zeta.vercel.app/?username=SinhaRepo&amp;theme=discord&amp;no-frame=true&amp;no-bg=true&amp;column=7&amp;margin-w=8" alt="GitHub Trophies"/>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
 ### ◆ Dev Quote of the Day
 
 <p align="center">
@@ -167,8 +148,6 @@ AWS          ████████████░░░░░░░░░░�
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
 
 ### ◆ Vibing To Right Now
 
@@ -179,8 +158,6 @@ AWS          ████████████░░░░░░░░░░�
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
 
 ### ◆ Snake Eating My Contributions
 
