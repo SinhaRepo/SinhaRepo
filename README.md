@@ -153,7 +153,7 @@ AWS          ████████████░░░░░░░░░░�
 ### ◆ GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SinhaRepo&amp;theme=discord&amp;no-frame=true&amp;no-bg=true&amp;column=7&amp;margin-w=8" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy-two-zeta.vercel.app/?username=SinhaRepo&amp;theme=discord&amp;no-frame=true&amp;no-bg=true&amp;column=7&amp;margin-w=8" alt="GitHub Trophies"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
