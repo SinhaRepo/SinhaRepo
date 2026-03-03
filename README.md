@@ -26,17 +26,14 @@
 ### ◆ About Me
 
 ```yaml
-name      : "Ansh Sinha"
-role      : "Backend Developer"
-education : "BE Computer Engineering @ GEC Dahod"
-cgpa      : "8.00 / 10.00"
-stack     : ["Python", "Java", "Flask", "Spring Boot", "Django"]
-databases : ["PostgreSQL", "MongoDB"]
-infra     : ["Docker", "AWS"]
-building  : "Nexus — Distributed AI Voice Assistant"
-fuel      : "Caffeine -> Clean APIs"
-mode      : "Night owl. Ships after midnight."
-motto     : "I don't write bugs. Undocumented features."
+name      : Ansh Sinha
+role      : Backend Developer
+education : BE Computer Engineering @ GEC Dahod
+cgpa      : 8.00 / 10.00
+stack     : [Python, Java, Flask, Spring Boot, Django]
+databases : [PostgreSQL, MongoDB]
+infra     : [Docker, AWS]
+fuel      : Caffeine -> Clean APIs
 ```
 
 ▸ Building distributed systems, REST APIs and scalable backends  
@@ -90,13 +87,6 @@ motto     : "I don't write bugs. Undocumented features."
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### ◆ Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ### ◆ Featured Projects
 
 <p align="center">
@@ -106,21 +96,6 @@ motto     : "I don't write bugs. Undocumented features."
   <a href="https://github.com/SinhaRepo/Shoppers">
     <img width="48%" src="https://github-readme-stats-sinharepo.vercel.app/api/pin/?username=SinhaRepo&amp;repo=Shoppers&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;text_color=c4b5fd&amp;icon_color=7c3aed&amp;border_radius=10" alt="Shoppers"/>
   </a>
-</p>
-
-<p align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <b>Nexus AI Assistant</b><br/>
-        <sub>Distributed voice AI on Raspberry Pi Zero W with Flask backend, custom wake-word detection, dual-LLM failover and hardware-level automation.</sub>
-      </td>
-      <td width="50%" align="center">
-        <b>Shoppers</b><br/>
-        <sub>Full-featured e-commerce web application with product listings, cart management, user authentication and order processing.</sub>
-      </td>
-    </tr>
-  </table>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -146,7 +121,6 @@ motto     : "I don't write bugs. Undocumented features."
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" alt="Dev Quote"/>
 </p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### ◆ Vibing To Right Now
