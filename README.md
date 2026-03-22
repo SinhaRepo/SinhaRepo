@@ -9,16 +9,18 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=22&amp;duration=3000&amp;pause=800&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=680&amp;lines=Backend+Developer+%7C+Python+%2B+Java;Distributed+Systems+%26+API+Craftsman;BE+Computer+Engineering+%40+GEC+Dahod;Building+Nexus+%7C+AI+Voice+Assistant;Clean+architecture+or+nothing+at+all" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=680&lines=Backend+Developer+%7C+Python+%2B+Java;Distributed+Systems+%26+API+Craftsman;BE+Computer+Engineering+%40+GEC+Dahod;Building+Nexus+%7C+AI+Voice+Assistant;Shipped+LIAM+%7C+Autonomous+LinkedIn+Agent;Clean+architecture+or+nothing+at+all" alt="Typing SVG"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/SinhaRepo/nexus-ai-assistant">
-    <img src="https://img.shields.io/badge/%E2%96%B8%20CURRENTLY%20BUILDING-Nexus%20AI%20Assistant%20%7C%20Distributed%20Voice%20AI%20on%20Raspberry%20Pi-7c3aed?style=for-the-badge&amp;logo=raspberry-pi&amp;logoColor=white&amp;labelColor=4c1d95" alt="Currently Building"/>
+    <img src="https://img.shields.io/badge/%E2%96%B8%20CURRENTLY%20BUILDING-Nexus%20AI%20Assistant%20%7C%20Distributed%20Voice%20AI%20on%20Raspberry%20Pi-7c3aed?style=for-the-badge&logo=raspberry-pi&logoColor=white&labelColor=4c1d95" alt="Currently Building"/>
   </a>
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00e676?style=for-the-badge&amp;labelColor=0d1117" alt="Active"/>
+  <a href="https://github.com/SinhaRepo/LIAM">
+    <img src="https://img.shields.io/badge/%E2%9C%94%20SHIPPED-LIAM%20%7C%20Autonomous%20LinkedIn%20Agent-00e676?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="Shipped LIAM"/>
+  </a>
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00e676?style=for-the-badge&labelColor=0d1117" alt="Active"/>
 </p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <img align="right" alt="Pixel Art Coder" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
