@@ -93,8 +93,8 @@ fuel      : Caffeine -> Clean APIs
   <a href="https://github.com/SinhaRepo/nexus-ai-assistant">
     <img width="48%" src="https://github-readme-stats-sinharepo.vercel.app/api/pin/?username=SinhaRepo&amp;repo=nexus-ai-assistant&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;text_color=c4b5fd&amp;icon_color=7c3aed&amp;border_radius=10" alt="Nexus AI Assistant"/>
   </a>
-  <a href="https://github.com/SinhaRepo/Shoppers">
-    <img width="48%" src="https://github-readme-stats-sinharepo.vercel.app/api/pin/?username=SinhaRepo&amp;repo=Shoppers&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;text_color=c4b5fd&amp;icon_color=7c3aed&amp;border_radius=10" alt="Shoppers"/>
+  <a href="https://github.com/SinhaRepo/LIAM">
+    <img width="48%" src="https://github-readme-stats-sinharepo.vercel.app/api/pin/?username=SinhaRepo&amp;repo=LIAM&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;text_color=c4b5fd&amp;icon_color=7c3aed&amp;border_radius=10" alt="LIAM"/>
   </a>
 </p>
 
