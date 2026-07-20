@@ -1,25 +1,25 @@
 <!-- TOP WAVE BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,40:4c1d95,100:7c3aed&amp;height=200&amp;section=header&amp;text=Ansh%20Sinha&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Backend%20Developer%20%7C%20Python%20%2B%20Java&amp;descAlignY=57&amp;descSize=19&amp;descColor=c4b5fd"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,40:4c1d95,100:7c3aed&amp;height=200&amp;section=header&amp;text=Ansh%20Sinha&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Python%20Developer%20%7C%20Generative%20AI%20%2B%20Backend&amp;descAlignY=57&amp;descSize=19&amp;descColor=c4b5fd"/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SinhaRepo&amp;style=for-the-badge&amp;color=7c3aed&amp;label=PROFILE+VISITORS" alt="visitors"/>
   <a href="https://linkedin.com/in/sinhaansh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="linkedin"/></a>
-  <a href="https://anshsinha.dev"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&amp;logo=firefox&amp;logoColor=white" alt="portfolio"/></a>
+  <a href="https://anshsinha.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&amp;logo=firefox&amp;logoColor=white" alt="portfolio"/></a>
   <a href="mailto:anshsinha.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="email"/></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=680&lines=Backend+Developer+%7C+Python+%2B+Java;Distributed+Systems+%26+API+Craftsman;BE+Computer+Engineering+%40+GEC+Dahod;Building+Nexus+%7C+AI+Voice+Assistant;Shipped+LIAM+%7C+Autonomous+LinkedIn+Agent;Clean+architecture+or+nothing+at+all" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=22&amp;duration=3000&amp;pause=800&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=680&amp;lines=Python+Developer+%7C+Generative+AI+%2B+Backend;LLM+Integration+%26+Orchestration;BE+Computer+Engineering+%40+GEC+Dahod;Building+Nexus+%7C+AI+Voice+Assistant;Shipped+LIAM+%7C+Autonomous+LinkedIn+Agent;Clean+APIs+or+nothing+at+all" alt="Typing SVG"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/SinhaRepo/nexus-ai-assistant">
-    <img src="https://img.shields.io/badge/%E2%96%B8%20CURRENTLY%20BUILDING-Nexus%20AI%20Assistant%20%7C%20Distributed%20Voice%20AI%20on%20Raspberry%20Pi-7c3aed?style=for-the-badge&logo=raspberry-pi&logoColor=white&labelColor=4c1d95" alt="Currently Building"/>
+    <img src="https://img.shields.io/badge/%E2%96%B8%20CURRENTLY%20BUILDING-Nexus%20AI%20Assistant%20%7C%20Distributed%20Voice%20AI%20on%20Raspberry%20Pi-7c3aed?style=for-the-badge&amp;logo=raspberry-pi&amp;logoColor=white&amp;labelColor=4c1d95" alt="Currently Building"/>
   </a>
   <a href="https://github.com/SinhaRepo/LIAM">
-    <img src="https://img.shields.io/badge/%E2%9C%94%20SHIPPED-LIAM%20%7C%20Autonomous%20LinkedIn%20Agent-00e676?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="Shipped LIAM"/>
+    <img src="https://img.shields.io/badge/%E2%9C%94%20SHIPPED-LIAM%20%7C%20Autonomous%20LinkedIn%20Agent-00e676?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=0d1117" alt="Shipped LIAM"/>
   </a>
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00e676?style=for-the-badge&labelColor=0d1117" alt="Active"/>
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00e676?style=for-the-badge&amp;labelColor=0d1117" alt="Active"/>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -29,19 +29,21 @@
 
 ```yaml
 name      : Ansh Sinha
-role      : Backend Developer
+role      : Python Developer, Generative AI
 education : BE Computer Engineering @ GEC Dahod
-cgpa      : 8.00 / 10.00
-stack     : [Python, Java, Flask, Spring Boot, Django]
-databases : [PostgreSQL, MongoDB]
-infra     : [Docker, AWS]
+cgpa      : 8.13 / 10.00
+languages : [Python, Java, SQL]
+tools     : [Flask, Selenium WebDriver, Requests, Git, GitHub, Postman, VS Code, PyCharm]
+genai     : [LLM API Integration, Prompt Design, Model Orchestration, Groq, Gemini API]
+ml_dl     : [TensorFlow, PyTorch] # basics
+database  : [SQLite]
 fuel      : Caffeine -> Clean APIs
 ```
 
-▸ Building distributed systems, REST APIs and scalable backends  
-▸ CS core — DSA, OS, DBMS, Networks, Software Engineering  
-▸ Google-certified in GenAI, LLMs and Responsible AI  
-▸ Ask me anything about Python, Java, Flask or system design  
+▸ Building GenAI-powered applications and REST APIs
+▸ CS core — OOP, REST API Design, Token-Based Auth, Multi-threading, Data Structures
+▸ Google-certified in GenAI, LLMs and Responsible AI
+▸ Ask me anything about Python, Flask, LLM integration or REST API design
 
 <br clear="right"/>
 
@@ -50,7 +52,7 @@ fuel      : Caffeine -> Clean APIs
 ### ◆ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,flask,spring,django,postgres,mongodb,docker,aws,git,linux,vscode&amp;theme=dark&amp;perline=6" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=python,java,flask,sqlite,pytorch,tensorflow,git,github,postman,vscode,pycharm,linux&amp;theme=dark&amp;perline=6" alt="Tech Stack"/>
 </p>
 
 ### ◆ Currently Learning
